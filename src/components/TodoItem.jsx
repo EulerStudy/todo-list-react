@@ -1,4 +1,4 @@
-import "./Todoitem.css";
+import "./TodoItem.css";
 import { memo, useContext } from "react";
 import { TodoContext } from "../App";
 
